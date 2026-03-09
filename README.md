@@ -201,6 +201,10 @@ python -m pytest tests/ -v
 | `markdown-it-py` | Markdown table parsing |
 | `packageurl-python` | Package URL handling |
 
+## Contributing
+
+Contributions are welcome. Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
 ## License
 
-Apache-2.0
+Licensed under the [Apache License, Version 2.0](LICENSE).
