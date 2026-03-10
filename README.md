@@ -7,7 +7,7 @@
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](CONTRIBUTING.md)
 
-A Python CLI tool that helps organizations comply with the **EU Cyber Resilience Act (CRA)** by automating the creation of **Product-level SBOMs** and **VEX (Vulnerability Exploitability eXchange)** documents.
+A Python CLI tool that helps organizations comply with the **[EU Cyber Resilience Act (CRA)](https://digital-strategy.ec.europa.eu/en/policies/cyber-resilience-act)** by automating the creation of **Product-level SBOMs** and **VEX (Vulnerability Exploitability eXchange)** documents.
 
 ## Why Compliance Matters
 
@@ -21,6 +21,8 @@ For **Auditors** and **Market Surveillance Authorities**, this tool produces the
 1. **Continuous Updates**: Both documents must be kept up-to-date with every release or vulnerability disclosure.
 2. **Authority Requests**: Both must be provided to authorities upon request to prove conformity.
 3. **Process Linkage**: These artifacts serve as evidence that your **secure update processes** and **vulnerability reporting timelines** are functioning (e.g., addressing critical risks promptly).
+
+More info on [CRA Hub](https://www.prismor.dev/cra)
 
 ## Features
 
